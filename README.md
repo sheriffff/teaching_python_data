@@ -1,1 +1,1 @@
-Teaching contents around python and data analysis
+Teaching contents around Python and data analysis. Includes exercises.
