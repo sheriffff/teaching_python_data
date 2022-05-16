@@ -1,7 +1,8 @@
-datasets/*
-slides_ict
-yo
-jo
+datasets/
+images/
+slides_ict/
+yo/
+jo/
 
 
 # Byte-compiled / optimized / DLL files
