@@ -1,1 +1,3 @@
-Teaching contents around Python and data analysis. Includes exercises.
+Curso en español sobre Python y Análisis de Datos.
+
+Incluye ejercicios.
